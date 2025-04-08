@@ -2099,18 +2099,18 @@ header.main-header .header-sticky.active{
 	margin-bottom: 0;
 }
 
-.post-Category-list ul li a{
+.post-Category-list ul li p{
 	color: var(--white-color);
 	display: flex;
 	align-items: center;
 	transition: all 0.3s ease-in-out;
 }
 
-.post-Category-list ul li a:hover{
+.post-Category-list ul li  :hover{
 	color: var(--accent-color);
 }
 
-.post-Category-list ul li a i{
+.post-Category-list ul li  i{
 	font-size: 16px;
 	color: var(--accent-color);
 	margin-right: 20px;
